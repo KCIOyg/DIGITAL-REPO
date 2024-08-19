@@ -1,0 +1,18 @@
+# Virtual Library
+
+A simple web-based virtual library application where users can browse and search through a collection of books by title or author. This project demonstrates fundamental front-end web development skills using HTML, CSS, and JavaScript.
+
+## Features
+
+- **Dynamic Search Functionality**: Instantly filters books as users type in the search box, allowing for quick and efficient browsing.
+- **Responsive Design**: The user interface is designed to be accessible and user-friendly across various devices, including desktops, tablets, and mobile phones.
+- **Interactive User Experience**: The application provides an interactive experience by dynamically managing and displaying book data.
+
+## Project Structure
+
+```plaintext
+virtual-library/
+│
+├── index.html   # Main HTML file
+├── style.css    # CSS for styling the application
+└── script.js    # JavaScript to handle the dynamic functionality
